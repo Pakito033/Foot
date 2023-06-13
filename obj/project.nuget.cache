@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZKckt1K6w6Ur3i/gH2qKSavyT4mMssebUWbDsE33f7vct5IY3NxrjxwCb0t93LSWaPXjFMNOHTsBL911Sn5KA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Tim\\Documents\\Mr. Tahina\\baby-foot\\baby-foot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tim\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
